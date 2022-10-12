@@ -1,0 +1,13 @@
+use university;
+SELECT * FROM student;
+alter table student add primary key(regno);
+create table fee(slno int not null auto_increment,
+				reg varchar(10) not null,
+                totalfee bigint not null default 130000,
+                paid bigint not null default 0,
+                remaining bigint not null default 130000,
+				primary key(reg),
+                foreign key(reg) references student(regno)
+                );
+select * from fee;
+insert into fee(reg) value("211FA04562");
