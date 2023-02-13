@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web Development and Android Development
 - Explore my major Projects 
 -   [WebProject](https://github.com/saikiranreddyappidi/WebProject) 
 -   [Android App](https://github.com/saikiranreddyappidi/Calculator)
