@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning ...
+- Explore my major Projects WebProject(https://github.com/saikiranreddyappidi/WebProject) and Android App(https://github.com/saikiranreddyappidi/Calculator)
 <!--
 **saikiranreddyappidi/saikiranreddyappidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
