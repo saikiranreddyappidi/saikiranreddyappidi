@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Web Development and Android Development
 - Explore my major Projects 
--   [WebProject](https://github.com/saikiranreddyappidi/WebProject) 
--   [Android App](https://github.com/saikiranreddyappidi/Calculator)
+- 🔭   [WebProject](https://github.com/saikiranreddyappidi/WebProject) 
+- 🔭   [Android App](https://github.com/saikiranreddyappidi/Calculator)
 <!--
 **saikiranreddyappidi/saikiranreddyappidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-MyStats
+My Stats
 
-[Skyline](https://skyline.github.com/saikiranreddyappidi/2022)
+⚡ [Skyline](https://skyline.github.com/saikiranreddyappidi/2022)
 
 ![](https://komarev.com/ghpvc/?username=saikiranreddyappidi&color=blueviolet)
 
