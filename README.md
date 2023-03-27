@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Web Development and Android Development
-- Explore my major Projects 
-- 🔭   [WebProject](https://github.com/saikiranreddyappidi/WebProject) 
-- 🔭   [Android App](https://github.com/saikiranreddyappidi/Calculator)
+- Explore my major Projects  
+🔭   [WebProject](https://github.com/saikiranreddyappidi/WebProject)   
+🔭   [Android App](https://github.com/saikiranreddyappidi/Calculator)
+- 📫 [Reach me here](https://saikiranreddyappidi.github.io/WebProject/)
 <!--
 **saikiranreddyappidi/saikiranreddyappidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,5 +31,3 @@ My Stats
 [HackerRank](https://www.hackerrank.com/saikiranreddyap1)
 [CodeChef](https://www.codechef.com/users/saikiranreddya)
 [HackerEarth](https://www.hackerearth.com/@saikiranreddyappidi)
-
-- 📫 [Reach me here](https://saikiranreddyappidi.github.io/WebProject/)
