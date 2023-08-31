@@ -29,7 +29,7 @@ My Stats
 
 My Competitive Profile
 
--⚡[HackerRank](https://www.hackerrank.com/saikiranreddyap1)
+-⚡[HackerRank](https://www.hackerrank.com/saikiranreddya)
 
 -⚡[CodeChef](https://www.codechef.com/users/saikiranreddya) 
 
