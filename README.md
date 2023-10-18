@@ -34,3 +34,4 @@ My Competitive Profile
 -⚡[CodeChef](https://www.codechef.com/users/saikiranreddya) 
 
 -⚡[HackerEarth](https://www.hackerearth.com/@saikiranreddyappidi)
+https://docs.google.com/presentation/d/1cdikDnqBm7VZ0TFcAZsEoLkcWg_uSfIX/edit?usp=drivesdk&ouid=111148038033865264193&rtpof=true&sd=true
