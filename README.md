@@ -34,5 +34,3 @@ My Competitive Profile
 -⚡[CodeChef](https://www.codechef.com/users/saikiranreddya) 
 
 -⚡[HackerEarth](https://www.hackerearth.com/@saikiranreddyappidi)
-
-[Presentation](https://1drv.ms/p/s!ArVTxPEKRZaLgsFg9zmqCKX5BrlcGg?e=nfXEC7)
