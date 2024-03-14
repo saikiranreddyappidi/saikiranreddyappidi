@@ -29,8 +29,9 @@ My Stats
 
 My Competitive Profile
 
+-⚡[LeetCode](https://www.leetcode.com/saikiranreddyappidi)
+
 -⚡[HackerRank](https://www.hackerrank.com/saikiranreddya)
 
 -⚡[CodeChef](https://www.codechef.com/users/saikiranreddya) 
 
--⚡[HackerEarth](https://www.hackerearth.com/@saikiranreddyappidi)
