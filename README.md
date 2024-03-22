@@ -29,7 +29,9 @@ My Stats
 
 My Competitive Profile
 
-![[LeetCode](https://www.leetcode.com/saikiranreddyappidi)](https://leetcard.jacoblin.cool/saikiranreddyappidi?theme=dark&ext=contest)
+![](https://leetcard.jacoblin.cool/saikiranreddyappidi?theme=dark&ext=contest)
+
+-⚡[LeetCode](https://www.leetcode.com/saikiranreddyappidi)
 
 -⚡[HackerRank](https://www.hackerrank.com/saikiranreddya)
 
