@@ -5,7 +5,7 @@
 🔭   [WebProject](https://github.com/saikiranreddyappidi/WebProject)   
 🔭   [Android App](https://github.com/saikiranreddyappidi/Calculator)
 - 📫 [Reach me here](https://saikiranreddyappidi.github.io/WebProject/)
-- [Quick Link](https://github.com/saikiranreddyappidi/InferenceAPI)
+- [Quick Link](https://github.com/saikiranreddyappidi/demopage/blob/dev/ecell.pptx)
 <!--
 **saikiranreddyappidi/saikiranreddyappidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
